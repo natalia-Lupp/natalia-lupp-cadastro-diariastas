@@ -18,6 +18,10 @@ O sistema de cadastro busca:
 
 Dessa forma, o cadastro de diaristas é uma das funcionalidades fundamentais do **Conecta Diarista**, pois fornece a estrutura necessária para que a plataforma possa aproximar clientes e profissionais de maneira mais organizada e eficiente.
 
+### Links para documentação detalhaa
+- [📋 Requisitos](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/Levantamento-de-Requisitos)
+- [⭐ Priorização MoSCoW](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/MoSCoW )
+
 
 # natalia-lupp-cadastro-diariastas
 Um sistema feito para entender a funcionalidade do Framework laravel
