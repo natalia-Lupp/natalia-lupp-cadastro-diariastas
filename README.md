@@ -12,8 +12,7 @@ O sistema de cadastro busca:
 
 - Organizar as informações das diaristas em um único lugar;
 - Facilitar o cadastro e a atualização dos dados dos profissionais;
-- Permitir uma busca mais eficiente por diaristas;
-- Facilitar a conexão entre clientes e profissionais;
+- Remoção de proficionais;
 - Reduzir a necessidade de processos manuais;
 - Servir como base para futuras funcionalidades do sistema.
 
