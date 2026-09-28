@@ -20,7 +20,8 @@ Dessa forma, o cadastro de diaristas é uma das funcionalidades fundamentais do 
 
 ### Links para documentação detalhaa
 - [📋 Requisitos](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/Levantamento-de-Requisitos)
-- [⭐ Priorização MoSCoW](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/MoSCoW )
+- [⭐ Priorização MoSCoW](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/MoSCoW ) 
+- [⭐ Prototipação](https://github.com/natalia-Lupp/natalia-lupp-cadastro-diariastas/wiki/Prototipa%C3%A7%C3%A3o-das-telas) 
 
 
 # natalia-lupp-cadastro-diariastas
